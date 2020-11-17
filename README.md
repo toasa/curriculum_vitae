@@ -100,6 +100,12 @@
 |[g9cc](https://github.com/Toasa/g9cc)|Go|Cコンパイラ|
 |[tbf](https://github.com/Toasa/bf_interpreter)|C|Brainf*ckインタプリタ|
 
+### ゲーム
+
+|レポジトリ名|言語|説明|
+|---|---|---|
+|[getris](https://github.com/Toasa/getris)|Go|テトリス|
+
 ### 深層学習
 
 |レポジトリ名|言語|説明|
