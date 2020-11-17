@@ -105,6 +105,7 @@
 |レポジトリ名|言語|説明|
 |---|---|---|
 |[getris](https://github.com/Toasa/getris)|Go|テトリス|
+|[game of life](https://github.com/Toasa/game_of_life)|Go|ライフゲーム|
 
 ### 深層学習
 
