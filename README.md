@@ -7,7 +7,6 @@
 * [Twitter](https://twitter.com/toasa_3)
 * [Blog](https://toasa3.hatenablog.com/)
 
-
 ## 職務概要
 
 新卒で株式会社EWMファクトリーに入社後、CMSや自社製のPHPフレームワークを使用しWebサイトの改修・保守業務を担当しました。
@@ -22,9 +21,10 @@
   - 開発環境
     - C++
   - ポイント
-    - ns3のモデル実装
+    - ns3 のモデル実装
     - Wireshark での pcap 解析
     - NVMe, NVMe-oF の習熟
+    - RDMA の習熟
 
 ### コネクトフリー株式会社 (2019年11月 ~ 2020年11月)
 
@@ -110,6 +110,7 @@
 |[regexp](https://github.com/Toasa/regexp)|Go|正規表現エンジン。構文木の出力、状態遷移図の出力、正規表現の受理判定を実装。|
 |[tgoc](https://github.com/Toasa/tgoc)|Go|Goコンパイラ|
 |[g9cc](https://github.com/Toasa/g9cc)|Go|Cコンパイラ|
+|[monkey by rust](https://github.com/Toasa/monkey_by_rust)|Rust|Go で書かれた[Monkey](https://monkeylang.org/) インタプリタを Rust で書き直した|
 |[tbf](https://github.com/Toasa/bf_interpreter)|C|Brainf*ckインタプリタ|
 
 ### ゲーム
