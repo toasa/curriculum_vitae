@@ -58,7 +58,7 @@
       - 内部バッファの使用率に応じて、アクセラレータ機能を停止、再会する機能を実装
     - RDMA NIC 実機上でのテスト
       - アクセラレータ機能の On/Off、RDMA オペレーション (RDMA WRITE, RDMA READ, SEND)、パケットサイズなどを変えテスト
-      - E810 / ConnectX-5,6 などの RDMA NIC でテスト。特に ConnectX-6 が自宛でない RoCE パケットを勝手に吸い込んでしまう問題があった。
+      - E810 / ConnectX-5,6 などの RDMA NIC でテスト
     - DPDK バージョンアップ対応
       - Deprecated になった API の置き換え
     - 通信の完了時間の計測
