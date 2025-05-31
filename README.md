@@ -22,6 +22,14 @@
 
 #### RDMA アクセラレータの開発 (2025年04月 - 現在)
 
+- 開発環境
+  - Linux, DPDK, DOCA, Ubuntu 24.04
+- ポイント
+  - NVIDIA の BlueField-3 という ConnectX-7 NIC と Arm チップが乗ったDPU上で RDMA アクセラレータを動作させた場合の機能検証、性能評価
+    - Arm システムとホスト環境が載った環境構成図は[こちら](https://docs.nvidia.com/doca/sdk/dpu+kernel+representors+model/index.html)。
+    - DPU 内の Arm システムに Linux, DPDK をインストールし、Arm システム上でアクセラレータを動作。外側のネットワークに向いたポートからパケットが入り、Arm システム上のポート (p0, pf0hpf) を介し、ホスト上のポート (PF0) にパケットが見えることを確認。
+    - RDMA アクセラレータ動作時の性能評価。評価ツールには linux-rdma の [perftest](https://github.com/linux-rdma/perftest)を使用。perftest がスループットおよびレイテンシを計測できるメカニズムをソースコードから把握し、性能評価を実施。
+- 3名/メンバー
 
 #### Android のグラフィクスに関する調査 (2024年10月 - 2025年3月)
 
