@@ -155,9 +155,10 @@
 |---|---|---|
 |C|4年|3年|
 |C++|1年|-|
-|Go|-|1年|
+|Go|半年|1年|
+|Rust|-|半年|
 |Python3|-|3年|
-|SQL|半年|-|
+|SQL|1年|-|
 |PHP|半年|-|
 
 ## 自己PR
@@ -207,6 +208,7 @@
 |---|---|---|
 |[getris](https://github.com/Toasa/getris)|Go|Go言語でテトリスのような落ちものゲームを作成した。|
 |[game of life](https://github.com/Toasa/game_of_life)|Go|Go言語でライフゲームを作成した。|
+|[mine-sweeper](https://github.com/toasa/mine-sweeper)|C|ターミナル上で遊ぶマインスイーパ|
 
 ### 機械学習
 
