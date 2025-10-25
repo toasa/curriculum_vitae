@@ -13,7 +13,7 @@
 
 |期間|会社|職種|概要|主な技術スタック|
 |---|---|---|---|---|
-|2025年9月 - 現在|[TOTO株式会社](https://jp.toto.com/)|ソフトウェアエンジニア|IoTシステムソフトウェアの開発|Google Cloud Platform, BigQuery, ゲートウェイ, Bluetooth Low Energy|
+|2025年9月 - 現在|[TOTO株式会社](https://jp.toto.com/)|IoT エンジニア|IoTシステムソフトウェアの開発|Google Cloud Platform, BigQuery, ゲートウェイ, Bluetooth Low Energy|
 |2020年12月 - 2025年8月|[株式会社イーゲル](https://www.igel.co.jp/)| ソフトウェアエンジニア、研究調査|RDMA シミュレータ・アクセラレータの開発 / Android のグラフィクスに関する調査|RDMA, [DPDK](https://www.dpdk.org/), Android, C, C++|
 |2019年11月 - 2020年11月| [コネクトフリー株式会社](https://connectfree.co.jp/)| 言語処理系エンジニア | Zen 言語を使用した脆弱性検出ツールの開発、標準ライブラリの開発 | Zen言語, C++, LLVM IR |
 |2018年4月 - 2019年9月| [株式会社EWMファクトリー](https://ewm.co.jp/)| ウェブエンジニア | CMSや自社製のPHPフレームワークを使用したWebサイトの改修・保守業務|PHP, CMS(Movable Type)|
